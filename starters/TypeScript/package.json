@@ -1,0 +1,14 @@
+{
+  "name": "typescript-algo-starter",
+  "version": "1.0.0",
+  "description": "TypeScript starter for algorithm problems",
+  "main": "script.ts",
+  "scripts": {
+    "start": "ts-node script.ts",
+    "build": "tsc script.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.9.5",
+    "ts-node": "^10.9.1"
+  }
+}
